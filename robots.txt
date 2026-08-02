@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-p34pdh.bighoki6gbv.shop/sitemap.xml
